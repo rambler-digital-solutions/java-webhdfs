@@ -1,5 +1,7 @@
 # Java WebHDFS Client
 
+[![](https://jitpack.io/v/rambler-digital-solutions/java-webhdfs.svg)](https://jitpack.io/#rambler-digital-solutions/java-webhdfs)
+
 Lightweight HDFS REST API java client implementation without using fat HADOOP libs.
 Based on [Hadoop WebHDFS API](https://hadoop.apache.org/docs/r2.7.7/hadoop-project-dist/hadoop-hdfs/WebHDFS.html).
 
